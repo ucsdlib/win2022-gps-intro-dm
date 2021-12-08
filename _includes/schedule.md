@@ -1,11 +1,11 @@
 | **Date** | **Class**                      |   **Topics**                     |
 |----------|--------------------------------|----------------------------------|
-| Feb. 16  | Lecture                        | Basic Data Management (Lecture), Open Science Framework |
-| Feb. 18  | Lecture                        | Organization in Spreadsheets |
+| Feb. 15  | Lecture                        | Basic Data Management (Lecture), Open Science Framework |
+| Feb. 17  | Lecture                        | Git Version Control |
 |          |  Assignment & Quiz            |       Posted in Canvas                            |
-| Feb. 23   | Lecture                       | Introduction to SQL           |
-| Feb. 25  | Lecture                        | TBD - SQL Cont. |
+| Feb. 22   | Lecture                       | Tidy Data           |
+| Feb. 24  | Lecture                        | Intro to SQL  |
 |          |  Assignment & Quiz            |       Posted in Canvas                            |
-| Mar. 02  | Lecture                        | TBD - Introduction to the UNIX Shell |
-| Mar. 04  | Lecture                        |  TBD - Intro to APIs            |
+| Mar. 01  | Lecture                        | SQL Cont. |
+| Mar. 03  | Lecture                        | SQL (Adv.)            |
 |          | Final Quiz             |  Posted in Canvas      ||
