@@ -8,4 +8,4 @@
 |          |  Assignment & Quiz            |       Posted in Canvas                            |
 | Mar. 01  | Lecture                        | SQL Cont. |
 | Mar. 03  | Lecture                        | SQL (Adv.)            |
-|          | Final Quiz             |  Posted in Canvas      ||
+|          | Final Quiz           |  Posted in Canvas      ||
